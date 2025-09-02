@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://cdn.treehouseinternetgroup.com/cms_images/4101/MC-Fence%20Southern-CT%20.png" alt="" style="width:250px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/4101/Scout%20Fence800.png" alt="" style="width:250px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2025 M.C. Fence of Southern Connecticut
+                    &copy;2025 Scout Fence Company
                 </p>
             </div>
         </div>

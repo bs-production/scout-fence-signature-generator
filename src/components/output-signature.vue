@@ -5,10 +5,10 @@
         "background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
         <tr>
             <td valign="top" style="padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;">
-              <a href="https://www.mcfenceofsouthernct.com/" target="_blank">
-                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/4101/mc-fence-logo-bar.jpg" name="preview-image-url" />
+              <a href="https://www.scoutfenceofsouthernct.com/" target="_blank">
+                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/4101/scout-fence-logo-bar.jpg" name="preview-image-url" />
         
-                <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/4101/mc-fence-logo-bar.jpg" name="preview-image-url" />
+                <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/4101/scout-fence-logo-bar.jpg" name="preview-image-url" />
               </a>
             </td>
             
@@ -79,7 +79,7 @@
                   </td>
                   <td valign="top" style=
                   "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                  <a href="https://www.mcfenceofsouthernct.com/" target="_blank" style=
+                  <a href="https://www.scoutfenceofsouthernct.com/" target="_blank" style=
                   "color: #333333; text-decoration: none; font-weight: normal; font-size: 14px;">
                     mcfenceofsouthernct.com</a>
                     &nbsp;&nbsp;
@@ -88,21 +88,21 @@
 
                 <tr>
                   <td colspan="2" style="padding-top: 5px;">
-                    <a href="https://www.facebook.com/mcfenceofsouthernct" target="_blank" style=
+                    <a href="https://www.facebook.com/scoutfence/" target="_blank" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/icon-facebook_30x30-2.png" /></a>
                     
-                    <a href="https://www.linkedin.com/company/mcfenceofsouthernct" target="_blank" style=
+                    <a href="https://www.linkedin.com/company/scoutfence/" target="_blank" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2822/icon-linkedin_30x30-2.png" /></a>
                     
-                    <a href="https://www.google.com/maps/place/M.C.+Fence+of+Southern+Connecticut/@41.3889466,-73.0557632,17z/data=!3m1!4b1!4m6!3m5!1s0x89e7dd58f49ef66d:0x8f3293f95941d0cc!8m2!3d41.3889466!4d-73.0531883!16s%2Fg%2F11ltxw23dv?authuser=3&entry=ttu&g_ep=EgoyMDI1MDMxOC4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D" target="_blank"
+                    <a href="https://www.google.com/maps/place/Scout+Fence+of+Southern+CT/@41.3889466,-73.0531883,17z/data=!3m1!4b1!4m6!3m5!1s0x89e7dd58f49ef66d:0x8f3293f95941d0cc!8m2!3d41.3889466!4d-73.0531883!16s%2Fg%2F11ltxw23dv?authuser=3&entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
@@ -110,7 +110,7 @@
                     src=
                     "https://cdn.treehouseinternetgroup.com/cms_images/2726/icon-google_30x30.png" /></a>
 
-                    <a href="https://www.instagram.com/mcfenceofsouthernct" target="_blank"
+                    <a href="https://www.instagram.com/scoutfencecompany" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
