@@ -81,7 +81,7 @@
                   "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   <a href="https://www.scoutfenceofsouthernct.com/" target="_blank" style=
                   "color: #333333; text-decoration: none; font-weight: normal; font-size: 14px;">
-                    mcfenceofsouthernct.com</a>
+                    scoutfenceofsouthernct.com</a>
                     &nbsp;&nbsp;
                   </td>
                 </tr>
